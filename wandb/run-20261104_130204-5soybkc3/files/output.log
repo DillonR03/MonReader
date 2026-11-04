@@ -1,0 +1,56 @@
+Epoch 1/20
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m48s[0m 2s/step - acc: 0.5483 - auc: 0.5766 - loss: 0.8585 - precision: 0.4727 - recall: 0.5364 - val_acc: 0.6056 - val_auc: 0.7092 - val_loss: 0.6223 - val_precision: 0.6095 - val_recall: 0.5981
+Epoch 2/20
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m32s[0m 2s/step - acc: 0.7416 - auc: 0.8310 - loss: 0.5048 - precision: 0.6972 - recall: 0.7639 - val_acc: 0.7465 - val_auc: 0.8228 - val_loss: 0.5114 - val_precision: 0.7789 - val_recall: 0.6916
+Epoch 3/20
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m31s[0m 2s/step - acc: 0.8054 - auc: 0.8981 - loss: 0.4021 - precision: 0.7854 - recall: 0.7908 - val_acc: 0.7512 - val_auc: 0.8528 - val_loss: 0.4611 - val_precision: 0.7700 - val_recall: 0.7196
+Epoch 4/20
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m34s[0m 2s/step - acc: 0.8513 - auc: 0.9241 - loss: 0.3493 - precision: 0.8189 - recall: 0.8483 - val_acc: 0.8028 - val_auc: 0.8685 - val_loss: 0.4641 - val_precision: 0.9114 - val_recall: 0.6729
+Epoch 5/20
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m35s[0m 2s/step - acc: 0.8869 - auc: 0.9506 - loss: 0.2828 - precision: 0.8683 - recall: 0.8631 - val_acc: 0.7934 - val_auc: 0.8827 - val_loss: 0.4164 - val_precision: 0.8621 - val_recall: 0.7009
+Epoch 6/20
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m36s[0m 2s/step - acc: 0.8975 - auc: 0.9485 - loss: 0.2862 - precision: 0.9034 - recall: 0.8571 - val_acc: 0.8169 - val_auc: 0.8945 - val_loss: 0.4372 - val_precision: 0.9595 - val_recall: 0.6636
+Epoch 7/20
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m34s[0m 2s/step - acc: 0.8941 - auc: 0.9629 - loss: 0.2566 - precision: 0.8851 - recall: 0.8801 - val_acc: 0.8263 - val_auc: 0.9001 - val_loss: 0.4025 - val_precision: 0.9167 - val_recall: 0.7196
+Epoch 8/20
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m32s[0m 2s/step - acc: 0.9145 - auc: 0.9715 - loss: 0.2208 - precision: 0.8971 - recall: 0.9018 - val_acc: 0.8263 - val_auc: 0.9002 - val_loss: 0.3981 - val_precision: 0.8889 - val_recall: 0.7477
+Epoch 9/20
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m32s[0m 2s/step - acc: 0.9172 - auc: 0.9782 - loss: 0.2039 - precision: 0.8954 - recall: 0.9034 - val_acc: 0.8216 - val_auc: 0.8994 - val_loss: 0.4069 - val_precision: 0.8966 - val_recall: 0.7290
+Epoch 10/20
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m32s[0m 2s/step - acc: 0.9293 - auc: 0.9813 - loss: 0.1938 - precision: 0.9271 - recall: 0.8998 - val_acc: 0.8216 - val_auc: 0.9024 - val_loss: 0.4372 - val_precision: 0.9259 - val_recall: 0.7009
+Epoch 11/20
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m33s[0m 2s/step - acc: 0.9127 - auc: 0.9803 - loss: 0.1963 - precision: 0.8957 - recall: 0.9006 - val_acc: 0.8357 - val_auc: 0.9031 - val_loss: 0.4097 - val_precision: 0.9186 - val_recall: 0.7383
+Epoch 12/20
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m34s[0m 2s/step - acc: 0.9378 - auc: 0.9851 - loss: 0.1696 - precision: 0.9290 - recall: 0.9281 - val_acc: 0.8169 - val_auc: 0.9028 - val_loss: 0.3927 - val_precision: 0.8617 - val_recall: 0.7570
+Epoch 13/20
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m33s[0m 2s/step - acc: 0.9317 - auc: 0.9862 - loss: 0.1694 - precision: 0.9296 - recall: 0.9153 - val_acc: 0.8169 - val_auc: 0.9076 - val_loss: 0.3785 - val_precision: 0.8617 - val_recall: 0.7570
+Epoch 14/20
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m33s[0m 2s/step - acc: 0.9507 - auc: 0.9851 - loss: 0.1673 - precision: 0.9444 - recall: 0.9391 - val_acc: 0.8216 - val_auc: 0.9109 - val_loss: 0.3781 - val_precision: 0.8791 - val_recall: 0.7477
+Epoch 15/20
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m33s[0m 2s/step - acc: 0.9474 - auc: 0.9877 - loss: 0.1596 - precision: 0.9358 - recall: 0.9464 - val_acc: 0.8451 - val_auc: 0.9158 - val_loss: 0.3654 - val_precision: 0.9111 - val_recall: 0.7664
+Epoch 16/20
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m34s[0m 2s/step - acc: 0.9492 - auc: 0.9885 - loss: 0.1547 - precision: 0.9453 - recall: 0.9336 - val_acc: 0.8592 - val_auc: 0.9157 - val_loss: 0.4119 - val_precision: 0.9753 - val_recall: 0.7383
+Epoch 17/20
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m33s[0m 2s/step - acc: 0.9614 - auc: 0.9931 - loss: 0.1362 - precision: 0.9683 - recall: 0.9450 - val_acc: 0.8638 - val_auc: 0.9182 - val_loss: 0.4072 - val_precision: 0.9875 - val_recall: 0.7383
+Epoch 18/20
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m34s[0m 2s/step - acc: 0.9600 - auc: 0.9937 - loss: 0.1327 - precision: 0.9595 - recall: 0.9449 - val_acc: 0.8498 - val_auc: 0.9187 - val_loss: 0.3683 - val_precision: 0.9518 - val_recall: 0.7383
+Epoch 19/20
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m41s[0m 3s/step - acc: 0.9655 - auc: 0.9953 - loss: 0.1122 - precision: 0.9635 - recall: 0.9566 - val_acc: 0.8451 - val_auc: 0.9218 - val_loss: 0.3554 - val_precision: 0.9111 - val_recall: 0.7664
+Epoch 20/20
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m41s[0m 3s/step - acc: 0.9560 - auc: 0.9931 - loss: 0.1279 - precision: 0.9500 - recall: 0.9460 - val_acc: 0.8545 - val_auc: 0.9219 - val_loss: 0.3796 - val_precision: 0.9634 - val_recall: 0.7383
+Stopped after 20 epochs; best epoch 20
+Training time: 11.7 min
+Best threshold (from val): 0.55  |  val F1: 0.8495
+TEST F1 @0.5:   0.9161
+TEST F1 @tuned: 0.9077
+
+              precision    recall  f1-score   support
+
+     notflip       0.87      0.98      0.92       307
+        flip       0.98      0.85      0.91       290
+
+    accuracy                           0.92       597
+   macro avg       0.92      0.91      0.92       597
+weighted avg       0.92      0.92      0.92       597
+
+{'model': 'resnet50', 'threshold': 0.55, 'val_F1': 0.8495, 'test_F1@0.5': 0.9161, 'test_F1@tuned': 0.9077, 'params_M': 23.6, 'train_min': 15.4}

@@ -1,0 +1,37 @@
+2026-11-04 13:27:11,533 INFO    MainThread:22056 [wandb_init.py:setup_run_log_directory():740] Logging user logs to c:\Users\Dillo\MonReader\wandb\run-20261104_132711-84tqkswe\logs\debug.log
+2026-11-04 13:27:11,534 INFO    MainThread:22056 [wandb_init.py:setup_run_log_directory():741] Logging internal logs to c:\Users\Dillo\MonReader\wandb\run-20261104_132711-84tqkswe\logs\debug-internal.log
+2026-11-04 13:27:11,534 INFO    MainThread:22056 [wandb_init.py:monkeypatch_ipython():659] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001DCBEEA0200>
+2026-11-04 13:27:11,534 INFO    MainThread:22056 [wandb_init.py:init():784] calling init triggers
+2026-11-04 13:27:11,534 INFO    MainThread:22056 [wandb_init.py:init():789] wandb.init called with sweep_config: {}
+config: {'img_size': (160, 160), 'use_crop': True, 'batch': 64, 'frame_step': 2, 'max_epochs': 20, 'patience': 3, 'model': 'efficientnet_b0', 'params_M': 4.0, 'lr': 0.001, 'dropout': 0.3, 'backbone_frozen': True, '_wandb': {}}
+2026-11-04 13:27:11,534 INFO    MainThread:22056 [wandb_init.py:init():832] starting backend
+2026-11-04 13:27:11,536 INFO    MainThread:22056 [wandb_init.py:init():847] sending inform_init request
+2026-11-04 13:27:11,544 INFO    MainThread:22056 [wandb_init.py:init():852] backend started and connected
+2026-11-04 13:27:11,553 INFO    MainThread:22056 [wandb_run.py:_label_probe_notebook():1210] probe notebook
+2026-11-04 13:27:11,587 INFO    MainThread:22056 [wandb_run.py:_label_probe_notebook():1220] Unable to probe notebook: 'charmap' codec can't decode byte 0x81 in position 3599667: character maps to <undefined>
+2026-11-04 13:27:11,588 INFO    MainThread:22056 [wandb_init.py:init():922] updated telemetry
+2026-11-04 13:27:11,757 INFO    MainThread:22056 [wandb_init.py:init():940] communicating run to backend with 90.0 second timeout
+2026-11-04 13:27:12,446 INFO    MainThread:22056 [wandb_init.py:init():977] starting run threads in backend
+2026-11-04 13:27:14,464 INFO    MainThread:22056 [wandb_run.py:_console_start():2528] atexit reg
+2026-11-04 13:27:14,464 INFO    MainThread:22056 [wandb_run.py:_redirect():2378] redirect: wrap_raw
+2026-11-04 13:27:14,464 INFO    MainThread:22056 [wandb_run.py:_redirect():2447] Wrapping output streams.
+2026-11-04 13:27:14,464 INFO    MainThread:22056 [wandb_run.py:_redirect():2470] Redirects installed.
+2026-11-04 13:27:14,466 INFO    MainThread:22056 [wandb_init.py:init():1015] run started, returning control to user process
+2026-11-04 13:51:44,994 INFO    MainThread:22056 [jupyter.py:save_ipynb():368] [no run ID] not saving jupyter notebook
+2026-11-04 13:51:44,994 INFO    MainThread:22056 [wandb_init.py:_post_run_cell_hook():614] [no run ID] pausing backend
+2026-11-04 13:52:33,491 INFO    MainThread:22056 [wandb_init.py:_pre_run_cell_hook():625] [no run ID] resuming backend
+2026-11-04 13:53:29,883 INFO    MainThread:22056 [jupyter.py:save_ipynb():368] [no run ID] not saving jupyter notebook
+2026-11-04 13:53:29,884 INFO    MainThread:22056 [wandb_init.py:_post_run_cell_hook():614] [no run ID] pausing backend
+2026-11-04 13:54:53,021 INFO    MainThread:22056 [wandb_init.py:_pre_run_cell_hook():625] [no run ID] resuming backend
+2026-11-04 13:54:53,287 INFO    MainThread:22056 [jupyter.py:save_ipynb():368] [no run ID] not saving jupyter notebook
+2026-11-04 13:54:53,287 INFO    MainThread:22056 [wandb_init.py:_post_run_cell_hook():614] [no run ID] pausing backend
+2026-11-04 13:54:56,228 INFO    MainThread:22056 [wandb_init.py:_pre_run_cell_hook():625] [no run ID] resuming backend
+2026-11-04 13:55:42,535 INFO    MainThread:22056 [wandb_run.py:_config_callback():1280] config_cb ('_wandb', 'visualize', 'confusion_matrix') {'panel_type': 'Vega2', 'panel_config': {'panelDefId': 'wandb/confusion_matrix/v1', 'fieldSettings': {'Actual': 'Actual', 'Predicted': 'Predicted', 'nPredictions': 'nPredictions'}, 'stringSettings': {'title': 'Confusion Matrix Curve'}, 'transform': {'name': 'tableWithLeafColNames'}, 'userQuery': {'queryFields': [{'name': 'runSets', 'args': [{'name': 'runSets', 'value': '${runSets}'}], 'fields': [{'name': 'id', 'fields': []}, {'name': 'name', 'fields': []}, {'name': '_defaultColorIndex', 'fields': []}, {'name': 'summaryTable', 'args': [{'name': 'tableKey', 'value': 'confusion_matrix_table'}], 'fields': []}]}]}}} None
+2026-11-04 13:55:45,274 INFO    MainThread:22056 [wandb_run.py:_finish():2300] finishing run dillondrops-apziva/page-flip-baselines/84tqkswe
+2026-11-04 13:55:45,275 INFO    MainThread:22056 [jupyter.py:save_history():441] not saving jupyter history
+2026-11-04 13:55:45,275 INFO    MainThread:22056 [jupyter.py:save_ipynb():368] not saving jupyter notebook
+2026-11-04 13:55:45,275 INFO    MainThread:22056 [wandb_init.py:_jupyter_teardown():638] cleaning up jupyter logic
+2026-11-04 13:55:45,275 INFO    MainThread:22056 [wandb_run.py:_atexit_cleanup():2495] got exitcode: 0
+2026-11-04 13:55:45,275 INFO    MainThread:22056 [wandb_run.py:_restore():2477] restore
+2026-11-04 13:55:45,275 INFO    MainThread:22056 [wandb_run.py:_restore():2483] restore done
+2026-11-04 13:55:56,398 INFO    MainThread:22056 [wandb_run.py:_footer_sync_info():3908] logging synced files

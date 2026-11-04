@@ -1,0 +1,78 @@
+_wandb:
+    value:
+        cli_version: 0.31.0
+        e:
+            01a1a482-1fc0-791a-8aec-f913eaff3dec:
+                codePath: c:\Users\Dillo\MonReader\MonReaderNotebook.ipynb
+                codePathLocal: MonReaderNotebook.ipynb
+                cpu:
+                    model: AMD Ryzen 7 5700U with Radeon Graphics
+                cpu_count: 8
+                cpu_count_logical: 16
+                disk:
+                    /:
+                        total: "492936622080"
+                        used: "398807490560"
+                email: dillondrops@gmail.com
+                executable: c:\Users\Dillo\anaconda3\python.exe
+                git:
+                    commit: 49fd8f7f09411dd528349f91c920ce702b5aa21d
+                    remote: https://github.com/DillonR03/MonReader.git
+                host: gerald
+                memory:
+                    total: "16483872768"
+                os: Windows-11-10.0.26200-SP0
+                program: c:\Users\Dillo\MonReader\MonReaderNotebook.ipynb
+                python: CPython 3.12.7
+                root: c:\Users\Dillo\MonReader
+                startedAt: "2026-11-04T03:02:33.648310Z"
+                writerId: 01a1a482-1fc0-791a-8aec-f913eaff3dec
+        m: []
+        python_version: 3.12.7
+        t:
+            "1":
+                - 1
+                - 2
+                - 3
+                - 5
+                - 41
+                - 49
+                - 53
+            "2":
+                - 1
+                - 2
+                - 3
+                - 5
+                - 41
+                - 49
+                - 53
+            "3":
+                - 2
+                - 13
+                - 16
+                - 62
+            "4": 3.12.7
+            "5": 0.31.0
+            "8":
+                - 1
+                - 3
+            "12": 0.31.0
+            "13": windows-amd64
+augment:
+    value: true
+batch:
+    value: 64
+frame_step:
+    value: 2
+img_size:
+    value:
+        - 160
+        - 160
+max_epochs:
+    value: 20
+model:
+    value: efficientnet_b0
+patience:
+    value: 3
+use_crop:
+    value: true

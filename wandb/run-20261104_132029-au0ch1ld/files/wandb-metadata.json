@@ -1,0 +1,31 @@
+{
+  "os":  "Windows-11-10.0.26200-SP0",
+  "python":  "CPython 3.12.7",
+  "startedAt":  "2026-11-04T02:20:29.148742Z",
+  "program":  "c:\\Users\\Dillo\\MonReader\\MonReaderNotebook.ipynb",
+  "codePath":  "c:\\Users\\Dillo\\MonReader\\MonReaderNotebook.ipynb",
+  "codePathLocal":  "MonReaderNotebook.ipynb",
+  "git":  {
+    "remote":  "https://github.com/DillonR03/MonReader.git",
+    "commit":  "49fd8f7f09411dd528349f91c920ce702b5aa21d"
+  },
+  "email":  "dillondrops@gmail.com",
+  "root":  "c:\\Users\\Dillo\\MonReader",
+  "host":  "gerald",
+  "executable":  "c:\\Users\\Dillo\\anaconda3\\python.exe",
+  "cpu_count":  8,
+  "cpu_count_logical":  16,
+  "disk":  {
+    "/":  {
+      "total":  "492936622080",
+      "used":  "394887221248"
+    }
+  },
+  "memory":  {
+    "total":  "16483872768"
+  },
+  "cpu":  {
+    "model":  "AMD Ryzen 7 5700U with Radeon Graphics"
+  },
+  "writerId":  "01a1a45b-9a7e-751e-be53-280bd5010126"
+}

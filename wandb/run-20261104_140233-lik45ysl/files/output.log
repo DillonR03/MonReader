@@ -1,0 +1,19 @@
+[b0 +aug] epoch 1: train loss 0.7361 | val AUC 0.8259
+[b0 +aug] epoch 2: train loss 0.6135 | val AUC 0.8655
+[b0 +aug] epoch 3: train loss 0.5611 | val AUC 0.8755
+[b0 +aug] epoch 4: train loss 0.5161 | val AUC 0.8897
+[b0 +aug] epoch 5: train loss 0.4730 | val AUC 0.8955
+[b0 +aug] epoch 6: train loss 0.4383 | val AUC 0.8970
+[b0 +aug] epoch 7: train loss 0.4197 | val AUC 0.9031
+[b0 +aug] epoch 8: train loss 0.4201 | val AUC 0.9036
+[b0 +aug] epoch 9: train loss 0.3785 | val AUC 0.9037
+[b0 +aug] epoch 10: train loss 0.3710 | val AUC 0.9040
+[b0 +aug] epoch 11: train loss 0.3663 | val AUC 0.9042
+[b0 +aug] epoch 12: train loss 0.3549 | val AUC 0.9029
+[b0 +aug] epoch 13: train loss 0.3417 | val AUC 0.9046
+[b0 +aug] epoch 14: train loss 0.3394 | val AUC 0.9055
+[b0 +aug] epoch 15: train loss 0.3259 | val AUC 0.9065
+[b0 +aug] epoch 16: train loss 0.3165 | val AUC 0.9056
+[b0 +aug] epoch 17: train loss 0.3013 | val AUC 0.9060
+[b0 +aug] epoch 18: train loss 0.3079 | val AUC 0.9045
+Early stopping
