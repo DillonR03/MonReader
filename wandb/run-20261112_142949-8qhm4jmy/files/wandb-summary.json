@@ -1,0 +1,1 @@
+{"flip_recall":0.979,"_timestamp":1.7944562857495065e+09,"_wandb":{"runtime":2150},"flip_precision":0.71,"test_F1@tuned":0.8232,"threshold":0.21,"train_min":34.9,"val_auc":0.9045141950273321,"_runtime":2150,"model":"efficientnet_b0 + aug","_step":17,"val_F1":0.8077,"train_loss":0.30785912589180314,"params_M":4,"test_F1@0.5":0.8845,"epoch":18}
